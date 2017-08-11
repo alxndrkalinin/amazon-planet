@@ -2,7 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+__init.py__
 # C extensions
 *.so
 
@@ -99,3 +99,9 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+.pkl
+.hdf5
+sub/*
+.csv
+keras_extras
